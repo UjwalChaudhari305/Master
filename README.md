@@ -1,1 +1,1 @@
-# Lead-Scoring-Case-Stud.
+# Lead-Scoring-Case-Study.
